@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f09bb497-0198-478b-a000-5a9a28627a73",
+    "data": [
+      {
+        "text": "block my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ab90ed5-d2fc-4722-a37a-c031b6661740",
+    "data": [
+      {
+        "text": "account block",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf889380-d383-4326-b470-66ccfa00ef25",
+    "data": [
+      {
+        "text": "block",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

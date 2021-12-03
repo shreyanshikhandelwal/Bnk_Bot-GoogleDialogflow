@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5627846b-03ae-4f0d-bb9f-7dfa69291f70",
+    "data": [
+      {
+        "text": "Create new account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "342bbcf7-0c36-4db2-8e7d-eb3cbf687307",
+    "data": [
+      {
+        "text": "Create an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ccb60e3-a1bc-4e44-9f9f-8164849c0f72",
+    "data": [
+      {
+        "text": "Make new account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d990cd2-4284-4a66-af92-d705ce8b3a8b",
+    "data": [
+      {
+        "text": "New account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e12d1f5a-5d18-433b-8209-cb3760792a78",
+    "data": [
+      {
+        "text": "I want to make a new account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6b20732-185d-4790-9d1e-adc62a059859",
+    "data": [
+      {
+        "text": "I want to create an account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
